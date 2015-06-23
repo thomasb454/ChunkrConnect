@@ -1,0 +1,5 @@
+name: ChunkrConnect-Example
+main: net.md_5.chunkr.BukkitExample
+author: md_5
+version: 1
+depend: [ChunkrConnect-Bukkit]
